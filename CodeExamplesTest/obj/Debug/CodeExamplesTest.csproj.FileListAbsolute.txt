@@ -1,0 +1,14 @@
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\CodeExamplesTest.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\CodeExamplesTest.pdb
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\obj\Debug\CodeExamplesTest.csprojAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\obj\Debug\CodeExamplesTest.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\obj\Debug\CodeExamplesTest.csproj.CopyComplete
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\obj\Debug\CodeExamplesTest.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamplesTest\obj\Debug\CodeExamplesTest.pdb

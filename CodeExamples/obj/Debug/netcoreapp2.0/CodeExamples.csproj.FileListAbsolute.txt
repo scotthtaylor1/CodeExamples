@@ -1,0 +1,14 @@
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\bin\Debug\netcoreapp2.0\Data.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\obj\Debug\netcoreapp2.0\CodeExamples.csprojAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\obj\Debug\netcoreapp2.0\CodeExamples.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\obj\Debug\netcoreapp2.0\CodeExamples.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\obj\Debug\netcoreapp2.0\CodeExamples.AssemblyInfo.cs
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\bin\Debug\netcoreapp2.0\CodeExamples.deps.json
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\bin\Debug\netcoreapp2.0\CodeExamples.runtimeconfig.json
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\bin\Debug\netcoreapp2.0\CodeExamples.runtimeconfig.dev.json
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\bin\Debug\netcoreapp2.0\CodeExamples.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\bin\Debug\netcoreapp2.0\CodeExamples.pdb
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\bin\Debug\netcoreapp2.0\Data.pdb
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\obj\Debug\netcoreapp2.0\CodeExamples.csproj.CopyComplete
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\obj\Debug\netcoreapp2.0\CodeExamples.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\CodeExamples\obj\Debug\netcoreapp2.0\CodeExamples.pdb

@@ -1,0 +1,9 @@
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\obj\Debug\netcoreapp2.0\Data.csprojAssemblyReference.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\obj\Debug\netcoreapp2.0\Data.csproj.CoreCompileInputs.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfoInputs.cache
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\obj\Debug\netcoreapp2.0\Data.AssemblyInfo.cs
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\bin\Debug\netcoreapp2.0\Data.deps.json
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\bin\Debug\netcoreapp2.0\Data.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\bin\Debug\netcoreapp2.0\Data.pdb
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\obj\Debug\netcoreapp2.0\Data.dll
+E:\Documents\Visual Studio 2017\Projects\CodeExamples\Data\obj\Debug\netcoreapp2.0\Data.pdb
